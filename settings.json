@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "survivalworld-dRNF.aternos.me",
-    "port": 44019,
+    "ip": "bronnySMP.aternos.me:56173",
+    "port": 56173,
     "version": "",
     "try-creative": false
   },
